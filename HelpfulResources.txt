@@ -1,0 +1,15 @@
+Lava Lamp Canvas: https://codepen.io/smpnjn/pen/yLPdEPQ
+
+Overlay: https://codepen.io/georgedoescode/pen/XWNmvro
+
+
+//TODO:
+- EDIT TODO MODAL WITHOUT MUI
+- CHECK/CROSS TODOS
+- CSS STYLING
+-THE CANVAS NOT WORKING SHOULD GIVE SOME OTHER BACKGROUNG
+- FLOATING ACTION BUTTON
+- DARK MODE
+- DB 
+- BACKEND IN NEST
+- DEPLOY ON NETLIFY
