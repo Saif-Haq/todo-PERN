@@ -36,6 +36,8 @@ export const ToDo = () => {
             <button onClick={() => setToDos(todos ? todos.filter((_, i) => i !== index) : [])}>
               Delete
             </button>
+            <br />
+            <br />
           </div>
         ))
       }

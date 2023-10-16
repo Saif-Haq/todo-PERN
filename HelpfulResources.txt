@@ -13,3 +13,5 @@ Overlay: https://codepen.io/georgedoescode/pen/XWNmvro
 - DB 
 - BACKEND IN NEST
 - DEPLOY ON NETLIFY
+
+GIT HUB + vercel deployment !!!!!!!!!!!!!
